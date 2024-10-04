@@ -1,5 +1,7 @@
 # YT-Like-Alert
-Files for the YouTube like alert from the video tutorial
+Files for the YouTube like alert from [the video tutorial](https://www.youtube.com/watch?v=-Elr_9ci3TM)
+
+[![Like Alert Video](https://img.youtube.com/vi/-Elr_9ci3TM/0.jpg)](https://www.youtube.com/watch?v=-Elr_9ci3TM)
 
 ## Files for 1080p Canvas
 
